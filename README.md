@@ -1,4 +1,4 @@
-Mobile Application ( C++ project )
+Mobile Application ( C# project )
 
 This program is designed for a mobile store application. 
 It includes the store name, its address, the total amount of bills, and the average amount of all bills. 
